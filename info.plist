@@ -359,6 +359,7 @@
                         <string>87943932-95C6-4285-8833-25669258ADB7</string>
                         <string>E58AB0B6-1255-48C7-BCAD-5294027405F4</string>
                         <string>7B9F48BE-E7F4-48D4-ADE1-0A6C2FFEBB16</string>
+                        <string>3C44127D-A8FC-48D2-A7ED-4F50573213BB</string>
                         <string>8144B1FA-DC48-48AA-ABBC-2A572F83B7EF</string>
                         <string>BB3DDE4B-B08C-4EC9-A594-F989F1003D98</string>
                         <string>459B23AB-9F4C-4E7C-8447-6D429C787E60</string>
@@ -808,6 +809,18 @@
                     </array>
                     <key>name</key>
                     <string>Typography Class</string>
+                </dict>
+                <key>3C44127D-A8FC-48D2-A7ED-4F50573213BB</key>
+                <dict>
+                    <key>items</key>
+                    <array>
+                        <string>3B34F2E6-DE22-4A72-98FC-1FE851AC96BA</string>
+                        <string>6EBA3CA0-6BDD-46BB-B2A2-F373F3ECCBD8</string>
+                        <string>5A276C8C-5DD2-4487-A6AA-D01F078A503C</string>
+                        <string>C1A55A85-E9CA-49A1-8402-E2215636BCBF</string>
+                    </array>
+                    <key>name</key>
+                    <string>Security Helper</string>
                 </dict>
             </dict>
         </dict>
