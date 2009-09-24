@@ -7,7 +7,7 @@
         <key>uuid</key>
         <string>62C12BF3-8DF0-4012-AD47-D9B58A377E7A</string>
         <key>tabTrigger</key>
-        <string>relapath</string>
+        <string>realpath</string>
         <key>content</key>
         <string>set_realpath(${1:'${2:path}'}${3:, ${4:TRUE}});${0}</string>
         <key>scope</key>
