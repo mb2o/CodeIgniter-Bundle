@@ -9,7 +9,7 @@
         <key>tabTrigger</key>
         <string>formlabel</string>
         <key>content</key>
-        <string>form_input(${1:'${2:value}', '${3:for}'${4:, ${5:attribs}}});${0}</string>
+        <string>form_label(${1:'${2:value}', '${3:for}'${4:, ${5:attribs}}});${0}</string>
         <key>scope</key>
         <string>source.php</string>
     </dict>
